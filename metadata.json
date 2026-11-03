@@ -1,0 +1,6 @@
+{
+  "name": "BLAC firm",
+  "description": "Bombay Litigation And Corporate Co. (BLAC Co.) - Founded by Mr. Parag Sharma (erstwhile Udwadia & Co.). Specializing in Litigation, Corporate, ADR, Real Estate, and IPR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
